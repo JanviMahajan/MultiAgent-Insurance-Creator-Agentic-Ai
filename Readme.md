@@ -69,8 +69,10 @@ Activate:
 
 venv\Scripts\activate   # Windows
 source venv/bin/activate  # Mac/Linux
+
 3️⃣ Install Dependencies
 pip install -r requirements.txt
+
 4️⃣ Add Groq API Key
 
 Create a .env file:

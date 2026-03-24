@@ -76,22 +76,15 @@ pip install -r requirements.txt
 4️⃣ Add Groq API Key
 
 Create a .env file:
-
+paste:
 GROQ_API_KEY=your_api_key_here
-🔑 How to Get Groq API Key
 
-Go to: https://console.groq.com
-
-Sign up / login
-
-Go to API Keys section
-
-Click Create API Key
-
-Copy and paste into .env
 
 5️⃣ Run the App
 streamlit run app.py
+
+Deployed app url: https://multiagent-insurance-creator-agentic-aigit-k8esehd5atnebp3ekzx.streamlit.app/
+
 💡 How It Works
 
 User enters insurance query
